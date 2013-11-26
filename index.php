@@ -119,7 +119,7 @@
 						<!-- Navigation -->
 						<ul id="nav" class="sf-menu">
 							<li class="current-menu-item"><a href="index.php">Home<span class="subheader">Welcome</span></a></li>
-							<li><a href="portfolio.html">Portfolio <span class="subheader">Showcase work</span></a></li>
+							<li><a href="team.html">AVO Team <span class="subheader">Meet the team </span></a></li>
 							<li><a href="gallery.html">Gallery<span class="subheader">Featured work</span></a></li>
 							<li><a href="contact.html">Contact<span class="subheader">Get in touch</span></a></li>
 						</ul>
@@ -138,8 +138,7 @@
 			<div id="slider-block">
 				<div id="slider-holder">
 					<div id="slider">
-						<a href="http://www.luiszuno.com"><img src="images/01.jpg" title="Visit my web site regularly and get freebies each week!" alt="" /></a>
-						<a href="http://themeforest.net/user/Ansimuz/portfolio?ref=ansimuz"><img src="images/02.jpg" title="Support the freebies buying high quality premium themes from my portfolio at themeforest" alt="" /></a>
+						<img src="images/R8.jpg" title="" alt="" />
 					</div>
 				</div>
 			</div>
@@ -177,28 +176,37 @@
 								<div>
 									<ul class="blocks-thumbs thumbs-rollover">
 										<li>
-											<a href="single.html" class="thumb" title="An image"><img src="img/dummies/282x150.gif" alt="Post" /></a>
+											<div class="thumb" title="An image"><img src="images/standard.jpg" alt="Post" /></div>
 											<div class="excerpt">
-												<a href="single.html" class="header">Lorem ipsum dolor</a>
-												Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
+												<a href="single.html" class="header">Standard Wrap</a>
+												Our Standard wrap package includes:<br/>
+												- 18-24" of hood coverage<br/>
+												- Complete front bumper wrap<br/>
+												- Headlight protection<br/>
+												- Rear view mirrors
 											</div>
-											<a href="single.html" class="link-button"><span>Read more &#8594;</span></a>
+											<!-- <a href="single.html" class="link-button"><span>Read more &#8594;</span></a> -->
 										</li>
 										<li>
-											<a href="single.html" class="thumb" title="An image"><img src="img/dummies/282x150.gif" alt="Post" /></a>
+											<div class="thumb" title="An image"><img src="images/maxim.jpg" alt="Post" /></div>
 											<div class="excerpt">
-												<a href="single.html" class="header">Lorem ipsum dolor</a>
-												Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
+												<a href="single.html" class="header">Maxim Wrap</a>
+												Our Maxim wrap package includes:<br/>
+												- Complete hood wrap<br/>
+												- Complete front fender wrap<br/>
+												- Complete front bumper wrap<br/>
+												- Headlight protection<br/>
+												- Rear view mirrors
 											</div>
-											<a href="single.html" class="link-button"><span>Read more &#8594;</span></a>
+											<!-- <a href="single.html" class="link-button"><span>Read more &#8594;</span></a> -->
 										</li>
 										<li>
-											<a href="single.html" class="thumb" title="An image"><img src="img/dummies/282x150.gif" alt="Post" /></a>
+											<div class="thumb" title="An image"><img src="images/tint.jpg" alt="Post" /></div>
 											<div class="excerpt">
-												<a href="single.html" class="header">Lorem ipsum dolor</a>
-												Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
+												<a href="single.html" class="header">Window Tinting</a>
+												We provide complete window film installations from a vast array of security film products to commercial & residential film services and of course automotive window tinting.
 											</div>
-											<a href="single.html" class="link-button"><span>Read more &#8594;</span></a>
+											<!-- <a href="single.html" class="link-button"><span>Read more &#8594;</span></a> -->
 										</li>
 									</ul>
 								</div>
@@ -221,7 +229,7 @@
 										<p>We have had many friends and family that have had the film on their cars for 10+ years. There are many factors that need to be considered with the question of film longevity. We recommend a handful of tips and suggestions in our, “after care” guide sheet, which we provide to all of our clients. Following this guide will make you happy with your clear bra for many, many years.
 											 Remember film is on the car to take the abuse so your vehicles expensive finish does not have to. If you do not maintain the appearance of your car the clear bra may look like the rest of your car. But regardless the film STOPS rock chips and road debris leaving your paint under the film new.</p>
 										<p></p>
-										<a href="single.html" class="link-button"><span>Read more &#8594;</span></a>
+										<!-- <a href="single.html" class="link-button"><span>Read more &#8594;</span></a> -->
 									</div>
 								</div>
 								<!-- ENDS Information -->
@@ -235,7 +243,7 @@
 												<a href="single.html" class="header">Lorem ipsum dolor</a>
 												Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
 											</div>
-											<a href="single.html" class="link-button"><span>Read more &#8594;</span></a>
+											<!-- <a href="single.html" class="link-button"><span>Read more &#8594;</span></a> -->
 										</li>
 										<li>
 											<a href="single.html" class="thumb" title="An image"><img src="img/dummies/282x150.gif" alt="Post" /></a>
@@ -243,7 +251,7 @@
 												<a href="single.html" class="header">Lorem ipsum dolor</a>
 												Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
 											</div>
-											<a href="single.html" class="link-button"><span>Read more &#8594;</span></a>
+											<!-- <a href="single.html" class="link-button"><span>Read more &#8594;</span></a> -->
 										</li>
 										<li>
 											<a href="single.html" class="thumb" title="An image"><img src="img/dummies/282x150.gif" alt="Post" /></a>
@@ -251,7 +259,7 @@
 												<a href="single.html" class="header">Lorem ipsum dolor</a>
 												Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
 											</div>
-											<a href="single.html" class="link-button"><span>Read more &#8594;</span></a>
+											<!-- <a href="single.html" class="link-button"><span>Read more &#8594;</span></a> -->
 										</li>
 									</ul>
 								</div>
@@ -272,14 +280,14 @@
 			
 			<!-- Twitter -->
 			<div id="twitter">
-				<div class="wrapper">
+<!-- 				<div class="wrapper">
 					<a href="#" id="prev-tweet"></a>
 					<a href="#" id="next-tweet"></a>
 					<img id="bird" src="img/bird.png" alt="Tweets" />
 					<div id="tweets">
 						<ul class="tweet_list"></ul>
 					</div>
-				</div>
+				</div> -->
 			</div>
 			<!-- ENDS Twitter -->
 
@@ -294,14 +302,14 @@
 							<h6>Pages</h6>
 							<ul>
 								<li class="page_item"><a href="index.php">Home</a></li>
-								<li class="page_item"><a href="portfolio.html">Portfolio</a></li>
+								<li class="page_item"><a href="team.html">Meet the team</a></li>
 								<li class="page_item"><a href="gallery.html">Gallery</a></li>
 								<li class="page_item"><a href="contact.html">Contact</a></li>
 							</ul>
 						</li>
 						
 						<li class="col">
-							<h6>Categories</h6>
+							<h6>Testimonials</h6>
 							<ul>
 								<li><a href="#">Webdesign projects senectus</a></li>
 								<li><a href="#/">Wordpress projects senectus</a></li>
@@ -315,8 +323,8 @@
 							</ul>
 						</li>
 						<li class="col">
-							<h6>About the theme</h6>
-							Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Cursus faucibus, tortor neque egestas augue, eu vulputate magna eros.
+							<h6>About AVO</h6>
+							When you decide to bring your new vehicle to Steve and his crew at Advanced Vehicle Outfitters you will not only become a part of our stellar reputation, you and your new vehicle can hit the road with nothing but confidence, knowing that you have been covered by one of the industry’s leaders in product and performance of  the “Clear Bra” paint protection film services.
 						</li>
 						
 					</ul>

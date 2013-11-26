@@ -155,17 +155,17 @@ jQuery(document).ready(function($) {
 	
 	// Portfolio projects rollover --------------------------------------------- //
 	
-	$('#projects-list .project').hover(function(){
-		// on rollover
-		$(this).children('.project-shadow').children('.project-thumbnail').children(".cover").stop().animate({ 
-			top: "133"
-		}, "fast");
-	} , function() { 
-		// on out
-		$(this).children('.project-shadow').children('.project-thumbnail').children(".cover").stop().animate({
-			top: "0" 
-		}, "fast");
-	});
+	// $('#projects-list .project').hover(function(){
+	// 	// on rollover
+	// 	$(this).children('.project-shadow').children('.project-thumbnail').children(".cover").stop().animate({ 
+	// 		top: "133"
+	// 	}, "fast");
+	// } , function() { 
+	// 	// on out
+	// 	$(this).children('.project-shadow').children('.project-thumbnail').children(".cover").stop().animate({
+	// 		top: "0" 
+	// 	}, "fast");
+	// });
 	
 	// Sidebar rollover --------------------------------------------------- //
 
