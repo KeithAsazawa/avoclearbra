@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>NOVA</title>
+		<title>AVO Clear Bra</title>
 		
 		<!-- CSS -->
 		<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
@@ -78,7 +78,13 @@
 		<link rel="stylesheet" href="js/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
 		<script type="text/javascript" src="js/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 		<!-- ENDS Fancybox -->
-		
+		<script type="text/javascript">
+		$(".fancybox").fancybox({
+    	helpers: { 
+        title: null
+    	}
+		});
+		</script>
 		
 
 	</head>
@@ -91,13 +97,8 @@
 				<div class="wrapper">
 					<a href="index.php"><img id="logo" src="img/avologo1.png" alt="AVO" /></a>
 					<!-- search -->
-<!-- 					<div class="top-search">
-						<form  method="get" id="searchform" action="#">
-							<div>
-								<input type="text" value="Search..." name="s" id="s" onfocus="defaultInput(this)" onblur="clearInput(this)" />
-								<input type="submit" id="searchsubmit" value=" " />
-							</div> -->
-						</form>
+					<div class="top-search">
+						<h4>Call Us 415.123.4567</h4>
 					</div>
 					<!-- ENDS search -->
 				</div>
@@ -118,8 +119,6 @@
 						<!-- Navigation -->
 						<ul id="nav" class="sf-menu">
 							<li class="current-menu-item"><a href="index.php">Home<span class="subheader">Welcome</span></a></li>
-
-							<li><a href="blog.html">Blog<span class="subheader">Read our posts</span></a></li>
 							<li><a href="portfolio.html">Portfolio <span class="subheader">Showcase work</span></a></li>
 							<li><a href="gallery.html">Gallery<span class="subheader">Featured work</span></a></li>
 							<li><a href="contact.html">Contact<span class="subheader">Get in touch</span></a></li>
@@ -154,9 +153,9 @@
 					<!-- headline -->
 					<div class="clear"></div>
 					<div id="headline">
-						<span class="main">Nova is a FREE HTML template</span>
-						<span class="sub">Need a professional and sleek html web site design. Try nova is free and easy to use.</span>
-						<a href="http://luiszuno.com/blog/downloads/nova-html-template" id="link" class="link-button-big"><span>Download Nova</span></a> 
+						<span class="main">YOU'RE PROUD OF IT, NOW PROTECT IT.</span>
+						<span class="sub"></span>
+						
 					</div>
 					<!-- ENDS headline -->
 					
@@ -166,9 +165,9 @@
 							<!-- TABS -->
 							<!-- the tabs -->
 							<ul class="tabs">
-								<li><a href="#"><span>Featured Pages</span></a></li>
-								<li><a href="#"><span>Information</span></a></li>
-								<li><a href="#"><span>Recent posts</span></a></li>
+								<li><a href="#"><span>Our Services</span></a></li>
+								<li><a href="#"><span>Product Details</span></a></li>
+								<!-- <li><a href="#"><span>Recent posts</span></a></li> -->
 							</ul>
 							
 							<!-- tab "panes" -->
@@ -208,9 +207,20 @@
 								<!-- Information  -->
 								<div>
 									<div class="plain-text">
-										<h6>Pellentesque habitant morbi tristique senectus et netus et malesuada.</h6> 
-										<p>Fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus. </p>
-										<p>Fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.Fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper <a href="single.html">This is a link</a>. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus. </p>
+										<h6>What is it?</h6> 
+										<p>We use a 3M high-grade, colorless urethane film, 8mm thick.</p>
+										<h6>Will the film diminish the paint on my car?</h6> 
+										<p>No, there are a number of technical reasons why the 3M film is safe for automotive finishes:<br/>
+											<ul class="product-details">
+												<li>The film is UV stable, but is designed the allow UV rays to penetrate, therefore creating and equal amount of paint fade among the vehicle.</li>
+												<li>The film is removable.  Should You desire to remove the film you may do so without any harm to the original finish.</li>
+												<li>You may wash and wax the car as normal, although we do suggest using liquid wax's on the film and discourage our clients from rubbing paste wax into film or buffing.</li>
+											</ul>
+										</p>
+										<h6>How long does the film last?</h6> 
+										<p>We have had many friends and family that have had the film on their cars for 10+ years. There are many factors that need to be considered with the question of film longevity. We recommend a handful of tips and suggestions in our, “after care” guide sheet, which we provide to all of our clients. Following this guide will make you happy with your clear bra for many, many years.
+											 Remember film is on the car to take the abuse so your vehicles expensive finish does not have to. If you do not maintain the appearance of your car the clear bra may look like the rest of your car. But regardless the film STOPS rock chips and road debris leaving your paint under the film new.</p>
+										<p></p>
 										<a href="single.html" class="link-button"><span>Read more &#8594;</span></a>
 									</div>
 								</div>
@@ -284,8 +294,6 @@
 							<h6>Pages</h6>
 							<ul>
 								<li class="page_item"><a href="index.php">Home</a></li>
-								<li class="page_item"><a href="features.html">Features</a></li>
-								<li class="page_item"><a href="blog.html">Blog</a></li>
 								<li class="page_item"><a href="portfolio.html">Portfolio</a></li>
 								<li class="page_item"><a href="gallery.html">Gallery</a></li>
 								<li class="page_item"><a href="contact.html">Contact</a></li>

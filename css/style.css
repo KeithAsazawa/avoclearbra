@@ -25,6 +25,10 @@
 
 /* GENERAL ------------------------------------------------------------*/
 
+.product-details li {
+	list-style-type: square;
+	margin: 1em;
+}
 
 body {
 	line-height: 1;
@@ -91,7 +95,8 @@ body {
 
 #headline>span.main{
 	display: block;
-	margin-right: 170px;
+	text-align: center;
+	/*margin-right: 170px;*/
 	font-family: 'Ubuntu', arial, serif;
 	font-size: 26px;
 	line-height: 1.5em;

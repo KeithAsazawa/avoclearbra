@@ -180,8 +180,10 @@ jQuery(document).ready(function($) {
 	// Fancybox --------------------------------------------------- //
 	
 	$("a.fancybox").fancybox({ 
-		'overlayColor':	'#000'
+		'overlayColor':	'#000',
+		titleShow: false 
 	});
+
 	
 	// pretty photo  ------------------------------------------------------ //
 	
@@ -212,8 +214,13 @@ jQuery(document).ready(function($) {
 		$("a[rel^='prettyPhoto']").prettyPhoto();
 						
 		// Fancy box
+		$(".fancybox").fancybox({
+			titleShow: false
+		}); 
+
 		$("a.fancybox").fancybox({ 
-			'overlayColor'		:	'#000'
+			'overlayColor'		:	'#000',
+			titleShow: false 
 		});
 		
 		// Gallery over 
