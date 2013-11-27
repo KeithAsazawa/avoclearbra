@@ -25,6 +25,11 @@
 
 /* GENERAL ------------------------------------------------------------*/
 
+.address {
+	font-family: 'Helvetica';
+	text-shadow: 1px 1px rgba(255, 255, 255, 1);;
+}
+
 .product-details li {
 	list-style-type: square;
 	margin: 1em;

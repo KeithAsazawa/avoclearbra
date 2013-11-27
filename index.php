@@ -98,7 +98,7 @@
 					<a href="index.php"><img id="logo" src="img/avologo1.png" alt="AVO" /></a>
 					<!-- search -->
 					<div class="top-search">
-						<h4>Call Us 415.123.4567</h4>
+						<h4>Call Us 415.686.4288</h4>
 					</div>
 					<!-- ENDS search -->
 				</div>
@@ -311,15 +311,8 @@
 						<li class="col">
 							<h6>Testimonials</h6>
 							<ul>
-								<li><a href="#">Webdesign projects senectus</a></li>
-								<li><a href="#/">Wordpress projects senectus</a></li>
-								<li><a href="#">Vestibulum tortor quam</a></li>
-								<li><a href="#">Code projects amet quam egestas</a></li>
-								<li><a href="#">Web design projects senectus</a></li>
-								<li><a href="#/">Marketplace projects</a></li>
-								<li><a href="#">Writting projects senectus</a></li>
-								<li><a href="#">Drawings projects fames Aenean</a></li>
-								<li><a href="#/">Wordpress projects Aenean ultricies</a></li>
+								<li>I had a standard package installed on my black Golf GTI today. Steve and his crew did an outstanding  job. The 8 mil film feels really strong and, since they do not use pre-cut kits, the coverage is maximized. They even tucked in the edges around compound curves. 
+Overall a great experience. Will recommend.<br/>-S L.</li>
 							</ul>
 						</li>
 						<li class="col">
